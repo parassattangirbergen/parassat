@@ -58,7 +58,7 @@ font-weight: 450;
             <h1>Сәлем,менің атым Парасат</h1>
             
         </div>
-        <img src="parassattynphotosy.jpg" alt="Мое фото" class="profile-img">
+        <img src="https://i.postimg.cc/bNCN029Q/parassattynphotosy.jpg" alt="Мое фото" class="profile-img">
     </header>
     <div class="container">
 <div class="section">
